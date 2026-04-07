@@ -1,4 +1,7 @@
 # Syllabi
-A repository containing *almost* every syllabus for classes I've taken at the University of Arizona. 
+A repository containing the syllabi for every class I've taken at the University of Arizona. 
 
-Missing: CLAS 150C1
+To be added in the future:
+CSC 445
+CSC 477
+CLAS 160D2
